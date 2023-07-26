@@ -1,0 +1,1 @@
+python CityGML2OBJs.py -i /mnt/sda/CityGML/boli/FME_2C287069_1690307069648_1853845/Export -o /mnt/sda/CityGML/boli/FME_2C287069_1690307069648_1853845/Export -g 1 
